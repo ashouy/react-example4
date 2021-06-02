@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+this example have 3 lessons about http requests in React.
+
+- Lesson 1
+  In this lesson we learn how to make simple requests to save and get data from firebase or another API
+- Lesson 2
+  In this lesson we learn how to create a **custom hook** and use it in diferent components
+- Lesson 3
+  In this lesson we learn how to create a **custom hook to make any kind of request** and use it in diferent components
+
+![react_example4a](https://media.giphy.com/media/0ZMHSMy6d4iExocEpu/giphy.gif)
+![react_example4b](https://media.giphy.com/media/ZpMpYC4fQjkXmao8E7/giphy.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
